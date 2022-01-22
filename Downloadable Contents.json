@@ -1,0 +1,326 @@
+﻿{
+  "GD_AlliumPackageDef.CustomizationSet_Allium_TG": {
+    "id": 3,
+    "name": "Wattle Gobbler",
+    "package": "GD_AlliumPackageDef.PackageDef_Allium",
+    "type": "CustomizationSet"
+  },
+  "GD_AlliumPackageDef.CustomizationSet_Allium_Xmas": {
+    "id": 5,
+    "name": "Mercenary Day",
+    "package": "GD_AlliumPackageDef.PackageDef_Allium",
+    "type": "CustomizationSet"
+  },
+  "GD_AnemonePackageDef.Customization.CustomizationSet_Anemone": {
+    "id": 3,
+    "name": "Fight for Sanctuary",
+    "package": "GD_AnemonePackageDef.PackageDef_Anemone",
+    "type": "CustomizationSet"
+  },
+  "GD_AsterPackageDef.Customization.CustomizationSet_Aster": {
+    "id": 3,
+    "name": "Dragon Keep",
+    "package": "GD_AsterPackageDef.PackageDef_Aster",
+    "type": "CustomizationSet"
+  },
+  "GD_AsterPackageDef.ExpansionDef_Aster": {
+    "id": 1,
+    "name": "Dragon Keep",
+    "package": "GD_AsterPackageDef.PackageDef_Aster",
+    "type": "Expansion"
+  },
+  "GD_AsterPackageDef.ItemSetDef_Aster": {
+    "id": 2,
+    "name": "Dragon Keep",
+    "package": "GD_AsterPackageDef.PackageDef_Aster",
+    "type": "ItemSet"
+  },
+  "GD_CommDay2013PackageDef.Customization.CustomizationSet_CommDay2013": {
+    "id": 1,
+    "name": "Community Day 2013 Customizations",
+    "package": "GD_CommDay2013PackageDef.PackageDef_CommDay2013",
+    "type": "CustomizationSet"
+  },
+  "GD_FlaxPackageDef.CustomizationSet_Flax": {
+    "id": 3,
+    "name": "Bloody Harvest",
+    "package": "GD_FlaxPackageDef.PackageDef_Flax",
+    "type": "CustomizationSet"
+  },
+  "GD_Gardenia01PackageDef.Customization.CustomizationSet_Gardenia01_AssassinCool": {
+    "id": 15,
+    "name": "Gardenia 01",
+    "package": "GD_Gardenia01PackageDef.PackageDef_Gardenia01",
+    "type": "CustomizationSet"
+  },
+  "GD_Gardenia01PackageDef.Customization.CustomizationSet_Gardenia01_AssassinPower": {
+    "id": 14,
+    "name": "Gardenia 01",
+    "package": "GD_Gardenia01PackageDef.PackageDef_Gardenia01",
+    "type": "CustomizationSet"
+  },
+  "GD_Gardenia01PackageDef.Customization.CustomizationSet_Gardenia01_AssassinZany": {
+    "id": 13,
+    "name": "Gardenia 01",
+    "package": "GD_Gardenia01PackageDef.PackageDef_Gardenia01",
+    "type": "CustomizationSet"
+  },
+  "GD_Gardenia01PackageDef.Customization.CustomizationSet_Gardenia01_MechroCool": {
+    "id": 12,
+    "name": "Gardenia 01",
+    "package": "GD_Gardenia01PackageDef.PackageDef_Gardenia01",
+    "type": "CustomizationSet"
+  },
+  "GD_Gardenia01PackageDef.Customization.CustomizationSet_Gardenia01_MechroPower": {
+    "id": 11,
+    "name": "Gardenia 01",
+    "package": "GD_Gardenia01PackageDef.PackageDef_Gardenia01",
+    "type": "CustomizationSet"
+  },
+  "GD_Gardenia01PackageDef.Customization.CustomizationSet_Gardenia01_MechroZany": {
+    "id": 10,
+    "name": "Gardenia 01",
+    "package": "GD_Gardenia01PackageDef.PackageDef_Gardenia01",
+    "type": "CustomizationSet"
+  },
+  "GD_Gardenia01PackageDef.Customization.CustomizationSet_Gardenia01_MercenaryCool": {
+    "id": 9,
+    "name": "Gardenia 01",
+    "package": "GD_Gardenia01PackageDef.PackageDef_Gardenia01",
+    "type": "CustomizationSet"
+  },
+  "GD_Gardenia01PackageDef.Customization.CustomizationSet_Gardenia01_MercenaryPower": {
+    "id": 8,
+    "name": "Gardenia 01",
+    "package": "GD_Gardenia01PackageDef.PackageDef_Gardenia01",
+    "type": "CustomizationSet"
+  },
+  "GD_Gardenia01PackageDef.Customization.CustomizationSet_Gardenia01_MercenaryZany": {
+    "id": 7,
+    "name": "Gardenia 01",
+    "package": "GD_Gardenia01PackageDef.PackageDef_Gardenia01",
+    "type": "CustomizationSet"
+  },
+  "GD_Gardenia01PackageDef.Customization.CustomizationSet_Gardenia01_SirenCool": {
+    "id": 6,
+    "name": "Gardenia 01",
+    "package": "GD_Gardenia01PackageDef.PackageDef_Gardenia01",
+    "type": "CustomizationSet"
+  },
+  "GD_Gardenia01PackageDef.Customization.CustomizationSet_Gardenia01_SirenPower": {
+    "id": 5,
+    "name": "Gardenia 01",
+    "package": "GD_Gardenia01PackageDef.PackageDef_Gardenia01",
+    "type": "CustomizationSet"
+  },
+  "GD_Gardenia01PackageDef.Customization.CustomizationSet_Gardenia01_SirenZany": {
+    "id": 4,
+    "name": "Gardenia 01",
+    "package": "GD_Gardenia01PackageDef.PackageDef_Gardenia01",
+    "type": "CustomizationSet"
+  },
+  "GD_Gardenia01PackageDef.Customization.CustomizationSet_Gardenia01_SoldierCool": {
+    "id": 3,
+    "name": "Gardenia 01",
+    "package": "GD_Gardenia01PackageDef.PackageDef_Gardenia01",
+    "type": "CustomizationSet"
+  },
+  "GD_Gardenia01PackageDef.Customization.CustomizationSet_Gardenia01_SoldierPower": {
+    "id": 2,
+    "name": "Gardenia 01",
+    "package": "GD_Gardenia01PackageDef.PackageDef_Gardenia01",
+    "type": "CustomizationSet"
+  },
+  "GD_Gardenia01PackageDef.Customization.CustomizationSet_Gardenia01_SoldierZany": {
+    "id": 1,
+    "name": "Gardenia 01",
+    "package": "GD_Gardenia01PackageDef.PackageDef_Gardenia01",
+    "type": "CustomizationSet"
+  },
+  "GD_Gardenia04PackageDef.Customization.CustomizationSet_Gardenia04_MechroHP04": {
+    "id": 1,
+    "name": "MechroHP04",
+    "package": "GD_Gardenia04PackageDef.PackageDef_Gardenia04",
+    "type": "CustomizationSet"
+  },
+  "GD_Gardenia04PackageDef.Customization.CustomizationSet_Gardenia04_MercHP04": {
+    "id": 2,
+    "name": "MercHP04",
+    "package": "GD_Gardenia04PackageDef.PackageDef_Gardenia04",
+    "type": "CustomizationSet"
+  },
+  "GD_Gardenia04PackageDef.Customization.CustomizationSet_Gardenia04_PsychoHP04": {
+    "id": 3,
+    "name": "PsychoHP04",
+    "package": "GD_Gardenia04PackageDef.PackageDef_Gardenia04",
+    "type": "CustomizationSet"
+  },
+  "GD_Gardenia04PackageDef.Customization.CustomizationSet_Gardenia04_PsychoHP04B": {
+    "id": 4,
+    "name": "PsychoHP04B",
+    "package": "GD_Gardenia04PackageDef.PackageDef_Gardenia04",
+    "type": "CustomizationSet"
+  },
+  "GD_Gardenia04PackageDef.Customization.CustomizationSet_Gardenia04_PsychoHP04C": {
+    "id": 5,
+    "name": "PsychoHP04C",
+    "package": "GD_Gardenia04PackageDef.PackageDef_Gardenia04",
+    "type": "CustomizationSet"
+  },
+  "GD_Gardenia04PackageDef.Customization.CustomizationSet_Gardenia04_PsychoHP04D": {
+    "id": 6,
+    "name": "PsychoHP04D",
+    "package": "GD_Gardenia04PackageDef.PackageDef_Gardenia04",
+    "type": "CustomizationSet"
+  },
+  "GD_Gardenia04PackageDef.Customization.CustomizationSet_Gardenia04_SirenHP04": {
+    "id": 7,
+    "name": "SirenHP04",
+    "package": "GD_Gardenia04PackageDef.PackageDef_Gardenia04",
+    "type": "CustomizationSet"
+  },
+  "GD_Gardenia04PackageDef.Customization.CustomizationSet_Gardenia04_SoldierHP04": {
+    "id": 8,
+    "name": "SoldierHP04",
+    "package": "GD_Gardenia04PackageDef.PackageDef_Gardenia04",
+    "type": "CustomizationSet"
+  },
+  "GD_Gardenia04PackageDef.Customization.CustomizationSet_Gardenia04_ZeroHP04": {
+    "id": 9,
+    "name": "ZeroHP04",
+    "package": "GD_Gardenia04PackageDef.PackageDef_Gardenia04",
+    "type": "CustomizationSet"
+  },
+  "GD_Gardenia05PackageDef.Customization.CustomizationSet_Gardenia05_MechroHP05": {
+    "id": 1,
+    "name": "MechroHP04",
+    "package": "GD_Gardenia05PackageDef.PackageDef_Gardenia05",
+    "type": "CustomizationSet"
+  },
+  "GD_Gardenia05PackageDef.Customization.CustomizationSet_Gardenia05_MercHP05": {
+    "id": 2,
+    "name": "MercHP04",
+    "package": "GD_Gardenia05PackageDef.PackageDef_Gardenia05",
+    "type": "CustomizationSet"
+  },
+  "GD_Gardenia05PackageDef.Customization.CustomizationSet_Gardenia05_PsychoHP05": {
+    "id": 3,
+    "name": "PsychoHP04",
+    "package": "GD_Gardenia05PackageDef.PackageDef_Gardenia05",
+    "type": "CustomizationSet"
+  },
+  "GD_Gardenia05PackageDef.Customization.CustomizationSet_Gardenia05_SirenHP05": {
+    "id": 4,
+    "name": "SirenHP04",
+    "package": "GD_Gardenia05PackageDef.PackageDef_Gardenia05",
+    "type": "CustomizationSet"
+  },
+  "GD_Gardenia05PackageDef.Customization.CustomizationSet_Gardenia05_SoldierHP05": {
+    "id": 5,
+    "name": "SoldierHP04",
+    "package": "GD_Gardenia05PackageDef.PackageDef_Gardenia05",
+    "type": "CustomizationSet"
+  },
+  "GD_Gardenia05PackageDef.Customization.CustomizationSet_Gardenia05_ZeroHP05": {
+    "id": 6,
+    "name": "ZeroHP04",
+    "package": "GD_Gardenia05PackageDef.PackageDef_Gardenia05",
+    "type": "CustomizationSet"
+  },
+  "GD_IrisPackageDef.Customization.CustomizationSet_Iris": {
+    "id": 3,
+    "name": "Campaign of Carnage",
+    "package": "GD_IrisPackageDef.PackageDef_Iris",
+    "type": "CustomizationSet"
+  },
+  "GD_LilacPackageDef.CharacterDef_Lilac": {
+    "id": 1,
+    "name": "Lilac Character",
+    "package": "GD_LilacPackageDef.PackageDef_Lilac",
+    "type": "Character"
+  },
+  "GD_LilacPackageDef.CustomItemSetDef_Lilac": {
+    "id": 2,
+    "name": "Psycho",
+    "package": "GD_LilacPackageDef.PackageDef_Lilac",
+    "type": "ItemSet"
+  },
+  "GD_LilacPackageDef.CustomizationSet_Lilac": {
+    "id": 3,
+    "name": "Psycho Customizations",
+    "package": "GD_LilacPackageDef.PackageDef_Lilac",
+    "type": "CustomizationSet"
+  },
+  "GD_LobeliaPackageDef.Customization.CustomizationSet_Lobelia": {
+    "id": 3,
+    "name": "Ultimate Vault Hunter Upgrade Pack 2 Customizations",
+    "package": "GD_LobeliaPackageDef.PackageDef_Lobelia",
+    "type": "CustomizationSet"
+  },
+  "GD_LootChest2PackageDef.CustomizationSet_LootChest2": {
+    "id": 1,
+    "name": "Loot Chest 2 Customizations",
+    "package": "GD_LootChest2PackageDef.PackageDef_LootChest2",
+    "type": "CustomizationSet"
+  },
+  "GD_NasturtiumPackageDef.CustomizationSet_Nasturtium_Easter": {
+    "id": 6,
+    "name": "Son of Crawmerax",
+    "package": "GD_NasturtiumPackageDef.PackageDef_Nasturtium",
+    "type": "CustomizationSet"
+  },
+  "GD_NasturtiumPackageDef.CustomizationSet_Nasturtium_Vday": {
+    "id": 3,
+    "name": "Wedding Day Massacre",
+    "package": "GD_NasturtiumPackageDef.PackageDef_Nasturtium",
+    "type": "CustomizationSet"
+  },
+  "GD_OrchidPackageDef.Customization.CustomizationSet_Orchid": {
+    "id": 3,
+    "name": "Pirate's Booty",
+    "package": "GD_OrchidPackageDef.PackageDef_Orchid",
+    "type": "CustomizationSet"
+  },
+  "GD_PeonyPackageDef.CustomizationSet_Peony": {
+    "id": 1,
+    "name": "Cork Pre-Order Customizations",
+    "package": "GD_PeonyPackageDef.PackageDef_Peony",
+    "type": "CustomizationSet"
+  },
+  "GD_SagePackageDef.Customization.CustomizationSet_Sage": {
+    "id": 4,
+    "name": "Hammerlock's Hunt",
+    "package": "GD_SagePackageDef.PackageDef_Sage",
+    "type": "CustomizationSet"
+  },
+  "GD_SagePackageDef.ItemSetDef_Sage": {
+    "id": 3,
+    "name": "Hammerlock's Hunt",
+    "package": "GD_SagePackageDef.PackageDef_Sage",
+    "type": "ItemSet"
+  },
+  "GD_TulipPackageDef.CharacterDef_Tulip": {
+    "id": 1,
+    "name": "Mechromancer",
+    "package": "GD_TulipPackageDef.PackageDef_Tulip",
+    "type": "Character"
+  },
+  "GD_TulipPackageDef.CustomItemSetDef_Tulip": {
+    "id": 3,
+    "name": "Mechromancer",
+    "package": "GD_TulipPackageDef.PackageDef_Tulip",
+    "type": "ItemSet"
+  },
+  "GD_TulipPackageDef.CustomizationSet_Tulip": {
+    "id": 2,
+    "name": "Mechromancer Customizations",
+    "package": "GD_TulipPackageDef.PackageDef_Tulip",
+    "type": "CustomizationSet"
+  },
+  "Transient.DownloadableItemSetDefinition_0": {
+    "id": 2,
+    "name": "Dragon Keep",
+    "package": "GD_AsterPackageDef.PackageDef_Aster",
+    "type": "ItemSet"
+  }
+}

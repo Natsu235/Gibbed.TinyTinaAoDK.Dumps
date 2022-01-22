@@ -1,0 +1,630 @@
+﻿{
+  "GD_Aster_AmuletDoNothing.M_AmuletDoNothing": {
+    "number": 17,
+    "name": "The Amulet",
+    "description": "A mysterious merchant named Mister Miz has offered you an amulet. He won't say what it does, but he mentioned that if he were to only use one piece of gear to survive the Sorcerer's armies, he would choose the amulet. You may either buy the amulet, or punch Miz in the face.",
+    "is_plot_critical": false,
+    "can_be_failed": false
+  },
+  "GD_Aster_ClaptrapApprentice.M_ClaptrapApprentice": {
+    "number": 15,
+    "name": "The Claptrap's Apprentice",
+    "description": "With his magical beard and wand at the ready, Claptrap has decided to finally test out his prowess as a sorcerer. He needs you to stand around and look impressed while he makes fireworks shoot out of his fingers or something.",
+    "is_plot_critical": false,
+    "can_be_failed": false
+  },
+  "GD_Aster_ClapTrapBeard.M_ClapTrapBeard": {
+    "number": 13,
+    "name": "The Beard Makes The Man",
+    "description": "Claptrap needs a beard to increase his magic power. As he is a robot, however, he's incapable of growing one.<br><br>He's asked you to kill some dwarves in [place]Mines of Avarice[-place] by luring them into the mining equipment. If you can collect some of the bloody facial hair that results from the carnage, you can forge it into a brand-new beard!",
+    "is_plot_critical": false,
+    "can_be_failed": false
+  },
+  "GD_Aster_ClaptrapWand.M_WandMakesTheMan": {
+    "number": 14,
+    "name": "My Kingdom for a Wand",
+    "description": "Even with his sweet beard, Claptrap still doesn't feel like a proper sorcerer. He needs you to take his wand, jam it into some creatures, and then kill them in specific ways. In death, the creatures will charge the wand and Claptrap will be one step closer to becoming a real sorcerer.",
+    "is_plot_critical": false,
+    "can_be_failed": false
+  },
+  "GD_Aster_CriticalFail.M_CriticalFail": {
+    "number": 4,
+    "name": "Critical Fail",
+    "description": "As thanks for chasing the douchebags out of her tavern, Moxxi has given you one of her guns. You just need to go pick it up.",
+    "is_plot_critical": false,
+    "can_be_failed": false
+  },
+  "GD_Aster_DeadBrother.M_MyDeadBrother": {
+    "number": 19,
+    "name": "My Dead Brother",
+    "description": "A fast-talking wizard named Simon just cursed you. Thanks to Simon, you now have the ability to revive the dead (a benefit he gladly mentioned to you), and will die in a week if the curse isn't removed (which he didn't mention). Simon has agreed to remove the curse if you can find and revive Simon's dead brother, Edgar.",
+    "is_plot_critical": false,
+    "can_be_failed": false
+  },
+  "GD_Aster_DemonicSouls.M_DemonicSouls": {
+    "number": 5,
+    "name": "Lost Souls",
+    "description": "You've met a skeleton who appears to need your help. He has asked you, somewhat cryptically, to return his souls to him. ",
+    "is_plot_critical": false,
+    "can_be_failed": false
+  },
+  "GD_Aster_EllieDress.M_EllieDress": {
+    "number": 6,
+    "name": "Ell in Shining Armor",
+    "description": "Ellie the swordswoman is in charge of protecting the town of [place]Flamerock Refuge[-place]. Unfortunately, she lacks one of the most basic swordswoman's necessities: a set of armor. She's asked you to head to [place]The Dark Forest[-place] and grab something that will protect her.",
+    "is_plot_critical": false,
+    "can_be_failed": false
+  },
+  "GD_Aster_FakeGeekGuy.M_FakeGeekGuy": {
+    "number": 7,
+    "name": "Fake Geek Guy",
+    "description": "Lilith is afraid that Mister Torgue -- with his huge muscles and rugged good looks -- is actually faking interest in Bunkers & Badasses just to look trendy. Tina has come up with a way to find out Torgue's true nerdiness for sure: she's scattered several geeky questions across her campaign. If you can find them, the group will determine whether Torgue is faking his geekiness or not.",
+    "is_plot_critical": false,
+    "can_be_failed": false
+  },
+  "GD_Aster_FeedButtStallion.M_FeedButtStallion": {
+    "number": 24,
+    "name": "Feed Butt Stallion",
+    "description": "Queen Butt Stallion is hungry. Tina thinks you should feed her.",
+    "is_plot_critical": false,
+    "can_be_failed": false
+  },
+  "GD_Aster_LootNinja.M_LootNinja": {
+    "number": 18,
+    "name": "Loot Ninja",
+    "description": "A knight named Sir Gallow suspects one of his friends of a most heinous crime: loot ninja-ing. In other words, someone has stolen all of the gear that dropped from an enemy he and his buddies killed. He's asked you to track down his friends and kill them all in an attempt to discover which of them stole his loot.",
+    "is_plot_critical": false,
+    "can_be_failed": false
+  },
+  "GD_Aster_MMORPGFPS.M_MMORPGFPS": {
+    "number": 8,
+    "name": "MMORPGFPS",
+    "description": "Mister Torgue has informed you of a big-ass monster outside the village of [place]Flamerock Refuge[-place]. He's asked you to head out there and get credit for killing it.",
+    "is_plot_critical": false,
+    "can_be_failed": false
+  },
+  "GD_Aster_PetButtStallion.M_PettButtStallion": {
+    "number": 23,
+    "name": "Pet Butt Stallion",
+    "description": "Butt Stallion would like to be petted. You should pet her.",
+    "is_plot_critical": false,
+    "can_be_failed": false
+  },
+  "GD_Aster_Plot_Mission01.M_Aster_PlotMission01": {
+    "number": 0,
+    "name": "A Role-Playing Game",
+    "description": "Lacking anything else to do, Tina, Lilith, Mordecai and Brick have decided to play a round of Pandora's most famous role-playing game, ''Bunkers & Badasses''. Basically, this means that you're currently inside Tiny Tina's imagination. God help you.<br><br>Your adventure begins outside the town of [place]Flamerock Refuge[-place]. Tina, your Bunker Master, has asked you to head to the town.",
+    "is_plot_critical": true,
+    "can_be_failed": false
+  },
+  "GD_Aster_Plot_Mission02.M_Aster_PlotMission02": {
+    "number": 1,
+    "name": "Denial, Anger, Initiative",
+    "description": "The queen of [place]Flamerock Refuge[-place] disappeared somewhere in [place]The Forest of Tranquility[-place]. Eleanor the swordswoman has asked you to head into the forest and track the queen down.",
+    "is_plot_critical": true,
+    "can_be_failed": false
+  },
+  "GD_Aster_Plot_Mission03.M_Aster_PlotMission03": {
+    "number": 2,
+    "name": "Dwarven Allies",
+    "description": "Upon learning that the Handsome Sorcerer kidnapped Flamerock's queen, Roland the White Knight suggested you fight your way through the [place]Mines of Avarice[-place], which hold a shortcut to the Handsome Sorcerer's tower and, hopefully, the queen.",
+    "is_plot_critical": true,
+    "can_be_failed": false
+  },
+  "GD_Aster_Plot_Mission04.M_Aster_PlotMission04": {
+    "number": 3,
+    "name": "A Game of Games",
+    "description": "With the entrance to the mines open, nothing stands between you and the Sorcerer's tower, where the kidnapped queen awaits her rescue.",
+    "is_plot_critical": true,
+    "can_be_failed": false
+  },
+  "GD_Aster_Plot_Mission05.M_Aster_PlotMission05": {
+    "number": -1,
+    "is_plot_critical": false,
+    "can_be_failed": false
+  },
+  "GD_Aster_Post-Crumpocalyptic.M_Post-Crumpocalyptic": {
+    "number": 9,
+    "name": "Post-Crumpocalyptic",
+    "description": "Ever since the Handsome Sorcerer cast his nefarious Crumpocalypse spell, the village of [place]Flamerock Refuge[-place] has desperately needed all the food they can get. Mad Moxxi has asked you to keep an eye out for any crumpets you might find in your travels.",
+    "is_plot_critical": false,
+    "can_be_failed": false
+  },
+  "GD_Aster_RaidBoss.M_Aster_RaidBoss": {
+    "number": 22,
+    "name": "Raiders of the Last Boss",
+    "description": "Mister Torgue knows of a raid boss somewhere out in the wilds of this fantastic land. If you have the courage and three friends (or a really sick-ass build), you may just have the strength to kill the raid boss and reap the rewards!",
+    "is_plot_critical": false,
+    "can_be_failed": false
+  },
+  "GD_Aster_RollInsight.M_RollInsight": {
+    "number": 10,
+    "name": "Roll Insight",
+    "description": "Sir Reginald Von Bartlesby, local aristocrat and purveyor of the fine arts, has a riddle for you. If you can answer correctly, you may have a reward coming.",
+    "is_plot_critical": false,
+    "can_be_failed": false
+  },
+  "GD_Aster_SwordInStone.M_SwordInStoner": {
+    "number": 16,
+    "name": "The Sword in The Stoner",
+    "description": "An unmotivated golem in [place]The Docks[-place] has stolen Roland's sword. If you can yoink the sword out of the creature's back and return it to Roland, he'll likely reward you.",
+    "is_plot_critical": false,
+    "can_be_failed": false
+  },
+  "GD_Aster_TempleSlaughter.M_TempleSlaughter1": {
+    "number": 26,
+    "name": "Magic Slaughter: Round 1",
+    "description": "Welcome to the Magic Slaughter! Your host, Murderlin The Wizard, has asked you to prepare yourself for five rounds of magic, traps, and intense brutality. If you can survive all five rounds, you shall be remembered forever!",
+    "is_plot_critical": false,
+    "can_be_failed": true
+  },
+  "GD_Aster_TempleSlaughter.M_TempleSlaughter2": {
+    "number": 27,
+    "name": "Magic Slaughter: Round 2",
+    "description": "Welcome to the Magic Slaughter! Your host, Murderlin The Wizard, has asked you to prepare yourself for five rounds of magic, traps, and intense brutality. If you can survive all five rounds, you shall be remembered forever!<br>You may have completed the first round, but the second will unleash all kinds of new horrors upon you. Better be prepared.",
+    "is_plot_critical": false,
+    "can_be_failed": true
+  },
+  "GD_Aster_TempleSlaughter.M_TempleSlaughter3": {
+    "number": 28,
+    "name": "Magic Slaughter: Round 3",
+    "description": "Welcome to the Magic Slaughter! Your host, Murderlin The Wizard, has asked you to prepare yourself for five rounds of magic, traps, and intense brutality. If you can survive all five rounds, you shall be remembered forever!<br>You have successfully made it to the third round. Good luck!",
+    "is_plot_critical": false,
+    "can_be_failed": true
+  },
+  "GD_Aster_TempleSlaughter.M_TempleSlaughter4": {
+    "number": 29,
+    "name": "Magic Slaughter: Round 4",
+    "description": "Welcome to the Magic Slaughter! Your host, Murderlin The Wizard, has asked you to prepare yourself for five rounds of magic, traps, and intense brutality. If you can survive all five rounds, you shall be remembered forever!<br>You have successfully made it to the second-to-last round. Good luck!",
+    "is_plot_critical": false,
+    "can_be_failed": true
+  },
+  "GD_Aster_TempleSlaughter.M_TempleSlaughter5": {
+    "number": 30,
+    "name": "Magic Slaughter: Round 5",
+    "description": "Welcome to the Magic Slaughter! Your host, Murderlin The Wizard, has asked you to prepare yourself for five rounds of magic, traps, and intense brutality. If you can survive all five rounds, you shall be remembered forever!<br>You have successfully made it to the final and most difficult round. Good luck!",
+    "is_plot_critical": false,
+    "can_be_failed": true
+  },
+  "GD_Aster_TempleSlaughter.M_TempleSlaughter6Badass": {
+    "number": 32,
+    "name": "Magic Slaughter: Badass Round",
+    "description": "Welcome to the repeatable badass round! As a reward for triumphing over the Magic Slaughter's five rounds of breakneck combat, you may replay this badass-filled combat as many times as you so wish. Luck be with you!",
+    "is_plot_critical": false,
+    "can_be_failed": true
+  },
+  "GD_Aster_TempleSlaughter.M_TempleSlaughterIntro": {
+    "number": 25,
+    "name": "Find Murderlin's Temple",
+    "description": "Moxxi -- who, as you may remember, owns several Circles of Slaughter throughout Pandora -- has set up a magic-themed arena somewhere in Tina's fantasy world. If you can find Murderlin the Wizard, he will help you fight your way through a few rounds of fantastical violence.",
+    "is_plot_critical": false,
+    "can_be_failed": false
+  },
+  "GD_Aster_TempleTower.M_TempleTower": {
+    "number": 31,
+    "name": "The Magic of Childhood",
+    "description": "Murderlin The Wizard has asked you to babysit his son, Murderlin Jr., for a little while. ",
+    "is_plot_critical": false,
+    "can_be_failed": true
+  },
+  "GD_Aster_TreeHugger.M_TreeHugger": {
+    "number": 11,
+    "name": "Tree Hugger",
+    "description": "A treant named Aubrey has asked you for help. A gang of orcs have set up a lumber camp within [place]The Forest of Being Eaten Alive By Trees[-place]. If you can plant and protect a treant sapling until it grows to maturity and destroys the camp, you'll have Aubrey's (sarcastic, halfhearted) thanks.",
+    "is_plot_critical": false,
+    "can_be_failed": true
+  },
+  "GD_Aster_WinterIsComing.M_WinterIsComing": {
+    "number": 21,
+    "name": "Winter is a Bloody Business",
+    "description": "Roland wants you to take care of an evil prince named Jeffrey. In this context, however, ''take care of'' doesn't actually mean ''kill'' -- Roland just wants you to find Jeffrey, kill his guards, and slap him around until he stops acting like such a jerk.",
+    "is_plot_critical": false,
+    "can_be_failed": false
+  },
+  "GD_Episode01.M_Ep1_Champion": {
+    "number": -1,
+    "name": "My First Gun",
+    "description": "After Handsome Jack left you for dead in [place]Windshear Waste[-place], you escaped the cold and met a CL4P-TP steward bot -- the last of his kind on Pandora. He has invited you into his igloo.",
+    "is_plot_critical": false,
+    "can_be_failed": false
+  },
+  "GD_Episode02.M_Ep2_Henchman": {
+    "number": -1,
+    "name": "Blindsided",
+    "description": "After Handsome Jack left you for dead in [place]Windshear Waste[-place], you escaped the cold and met a CL4P-TP steward bot -- the last of his kind on Pandora. He has enlisted you as his minion; you are to help him kill Jack and save Pandora.<br><br>Before you can do any of that, however, you will need to deal with a slightly more pressing matter: Claptrap's eye has been ripped out by a bullymong, and you must help him retrieve it.",
+    "is_plot_critical": false,
+    "can_be_failed": false
+  },
+  "GD_Episode02.M_Ep2a_MoreGuns": {
+    "number": -1,
+    "name": "Cleaning up the Berg",
+    "description": "You've found Claptrap's eye, but he still needs someone to plug it into his socket. That someone happens to be one Sir Hammerlock, who currently resides in the town of [place]Liar's Berg[-place]. Claptrap wants you to head there now.",
+    "is_plot_critical": false,
+    "can_be_failed": false
+  },
+  "GD_Episode02.M_Ep2b_Henchman": {
+    "number": -1,
+    "name": "Shielded Favors",
+    "description": "Sir Hammerlock has suggested that, if you're expecting to leave [place]Southern Shelf[-place] alive, you'll need a better shield. He wants you to head to an abandoned shop and former Crimson Raider base. Once there, you can purchase a better shield.",
+    "is_plot_critical": false,
+    "can_be_failed": false
+  },
+  "GD_Episode02.M_Ep2c_Henchman": {
+    "number": -1,
+    "name": "Best Minion Ever",
+    "description": "Now that his minion (that's you!) is well-armed and raring for a fight, Claptrap feels it is time for you and him to head to [place]Sanctuary[-place] -- the last free town on Pandora. In order to reach [place]Sanctuary[-place], you'll need to steal Claptrap's boat back from the nefarious Captain Flynt. One obstacle stands between you and Flynt, however: Flynt's henchman, an explosives expert named Boom Bewm.",
+    "is_plot_critical": false,
+    "can_be_failed": false
+  },
+  "GD_Episode03.M_Ep3_CatchARide": {
+    "number": -1,
+    "name": "The Road to Sanctuary",
+    "description": "[place]Sanctuary[-place]. The last free city on Pandora. Within its walls, you will find Roland, the leader of the resistance against Handsome Jack. You'll also find safety, comfort, and at least a few people whose primary mode of communication isn't delivered through the barrel of a gun.",
+    "is_plot_critical": false,
+    "can_be_failed": false
+  },
+  "GD_Episode04.M_Ep4_WelcomeToSanctuary": {
+    "number": -1,
+    "name": "Plan B",
+    "description": "You've made it to [place]Sanctuary[-place]. This would be awesome, were it not for the fact that the man you came here to find -- Roland, the leader of the Crimson Raiders -- went missing shortly before your arrival.",
+    "is_plot_critical": false,
+    "can_be_failed": false
+  },
+  "GD_Episode05.M_Ep5_ThePhoenix": {
+    "number": -1,
+    "name": "Hunting the Firehawk",
+    "description": "In order to defeat Jack, you will need to find a soldier named Roland. If you search Roland's safe, maybe you can find out where he's disappeared to.",
+    "is_plot_critical": false,
+    "can_be_failed": false
+  },
+  "GD_Episode06.M_Ep6_RescueRoland": {
+    "number": -1,
+    "name": "A Dam Fine Rescue",
+    "description": "Roland, the de facto leader of the resistance against Hyperion and Handsome Jack, has been kidnapped by the Bloodshot bandit clan. This is a bad thing. Lilith has instructed you to infiltrate [place]Bloodshot Stronghold[-place] and break Roland out. Simple!",
+    "is_plot_critical": false,
+    "can_be_failed": false
+  },
+  "GD_Episode07.M_Ep7_ATrainToCatch": {
+    "number": -1,
+    "name": "A Train to Catch",
+    "description": "You've rescued Roland from Hyperion -- now it's time for the customary ''thanks for rescuing me from those bad guys; now, let's talk about how we're going to put a bullet in Jack's face'' conversation back in [place]Sanctuary[-place].",
+    "is_plot_critical": false,
+    "can_be_failed": false
+  },
+  "GD_Episode08.M_Ep8_SanctuaryTakesOff": {
+    "number": -1,
+    "name": "Rising Action",
+    "description": "You grabbed an experimental power core from [place]Tundra Express[-place]. Given that such a core could keep [place]Sanctuary's[-place] defense shield powered indefinitely, Roland requested you bring it back to Lt. Davis. Give him a hand installing it, will you?",
+    "is_plot_critical": false,
+    "can_be_failed": false
+  },
+  "GD_Episode09.M_Ep9_GetBackToSanctuary": {
+    "number": -1,
+    "name": "Bright Lights, Flying City",
+    "description": "[place]Sanctuary[-place] has disappeared. The Guardian Angel has asked you to head through [place]The Fridge[-place]. If you can survive its horrors, the Angel says, you will be able to link up with [place]Sanctuary[-place] on the other side.",
+    "is_plot_critical": false,
+    "can_be_failed": false
+  },
+  "GD_Episode10.M_Ep10_BirdISTheWord": {
+    "number": -1,
+    "name": "Wildlife Preservation",
+    "description": "You made it back to [place]Sanctuary[-place], but the Crimson Raiders still need a plan to take down Handsome Jack. Better talk to Roland and find out your next step.",
+    "is_plot_critical": false,
+    "can_be_failed": false
+  },
+  "GD_Episode11.M_Ep11_LikeATonOf": {
+    "number": -1,
+    "name": "The Once and Future Slab",
+    "description": "With the first obstacle to [place]Control Core Angel[-place] accounted for, Roland has turned your attention to the second obstacle: a big-ass Hyperion defense bunker. Roland feels you will need the help of a local bandit leader, the Slab King, to destroy this bunker. The Slab King can be found in [place]Thousand Cuts[-place], but be careful -- though he hates Jack as much as anyone, his men won't exactly welcome you with open arms.",
+    "is_plot_critical": false,
+    "can_be_failed": false
+  },
+  "GD_Episode12.M_Ep12_BecomingJack": {
+    "number": -1,
+    "name": "The Man Who Would Be Jack",
+    "description": "To stop Jack from awakening the Warrior, you will need to shut down the Guardian Angel. [place]Control Core Angel[-place] is defended by three major obstacles -- two of which you have already planned for. The final obstacle to Angel's lair is a door that will only open for Handsome Jack. Roland's got no idea how to get past this door, unfortunately.",
+    "is_plot_critical": false,
+    "can_be_failed": false
+  },
+  "GD_Episode13.M_Ep13_KillAngel": {
+    "number": -1,
+    "name": "Where Angels Fear to Tread",
+    "description": "Angel is going to give you Handsome Jack, but only if you deactivate her first.",
+    "is_plot_critical": false,
+    "can_be_failed": false
+  },
+  "GD_Episode14.M_Ep14_SearchingTheWreckage": {
+    "number": -1,
+    "name": "Where Angels Fear to Tread (Part 2)",
+    "description": "Speak to Roland.",
+    "is_plot_critical": false,
+    "can_be_failed": false
+  },
+  "GD_Episode15.M_Ep15_CharacterAssassination": {
+    "number": -1,
+    "name": "Data Mining",
+    "description": "Mordecai has determined that if you can find where the Warrior is buried, you will find Jack. Now that you've helped the Slabs grab some explosives from [place]Sawtooth Cauldron[-place], you're ready to blast your way into the [place]Hyperion Info Stockade[-place] and get the info you need.",
+    "is_plot_critical": false,
+    "can_be_failed": false
+  },
+  "GD_Episode16.M_Ep16_LockAndLoad": {
+    "number": -1,
+    "name": "Toil and Trouble",
+    "description": "Mordecai has determined that if you can find where the Warrior is buried, you will find Jack. The [place]Hyperion Info Stockade[-place] has the info you need.",
+    "is_plot_critical": false,
+    "can_be_failed": false
+  },
+  "GD_Episode17.M_Ep17_KillJack": {
+    "number": -1,
+    "name": "The Talon of God",
+    "description": "You must find and kill Handsome Jack before he can awaken the Warrior -- partially to save Pandora, partially to save Lilith, and partially because Jack is a real bastard. Jack is holed up in [place]Hero's Pass[-place], where the Warrior is buried. You will need Claptrap to get you through the Hyperion defenses set up there.",
+    "is_plot_critical": false,
+    "can_be_failed": false
+  },
+  "GD_Z1_BadHairDay.M_BadHairDay": {
+    "number": -1,
+    "name": "Bad Hair Day",
+    "description": "Sir Hammerlock asked you to find some bullymong fur so he may decorate his hat with it. In order to collect the fur from the bullymongs, you'll have to weaken them with gunfire, then finish them off with a melee attack.",
+    "is_plot_critical": false,
+    "can_be_failed": false
+  },
+  "GD_Z1_BanditSlaughter.M_BanditSlaughter1": {
+    "number": -1,
+    "name": "Bandit Slaughter: Round 1",
+    "description": "You've found Moxxi's first Circle of Slaughter, run by a bandit named Fink. [place]Fink's Slaughterhouse[-place] is, perhaps unsurprisingly, full of murderous bandits. You'll have to survive five separate rounds, each with multiple waves of enemies.",
+    "is_plot_critical": false,
+    "can_be_failed": true
+  },
+  "GD_Z1_BanditSlaughter.M_BanditSlaughter2": {
+    "number": -1,
+    "name": "Bandit Slaughter: Round 2",
+    "description": "You've found Moxxi's first Circle of Slaughter, run by a bandit named Fink. [place]Fink's Slaughterhouse[-place] is, perhaps unsurprisingly, full of murderous bandits. You'll have to survive five separate rounds, each with multiple waves of enemies.",
+    "is_plot_critical": false,
+    "can_be_failed": true
+  },
+  "GD_Z1_BanditSlaughter.M_BanditSlaughter3": {
+    "number": -1,
+    "name": "Bandit Slaughter: Round 3",
+    "description": "You've found Moxxi's first Circle of Slaughter, run by a bandit named Fink. [place]Fink's Slaughterhouse[-place] is, perhaps unsurprisingly, full of murderous bandits. You'll have to survive five separate rounds, each with multiple waves of enemies.",
+    "is_plot_critical": false,
+    "can_be_failed": true
+  },
+  "GD_Z1_BanditSlaughter.M_BanditSlaughter4": {
+    "number": -1,
+    "name": "Bandit Slaughter: Round 4",
+    "description": "You've found Moxxi's first Circle of Slaughter, run by a bandit named Fink. [place]Fink's Slaughterhouse[-place] is, perhaps unsurprisingly, full of murderous bandits. You'll have to survive five separate rounds, each with multiple waves of enemies.",
+    "is_plot_critical": false,
+    "can_be_failed": true
+  },
+  "GD_Z1_BanditSlaughter.M_BanditSlaughter5": {
+    "number": -1,
+    "name": "Bandit Slaughter: Round 5",
+    "description": "You've found Moxxi's first Circle of Slaughter, run by a bandit named Fink. [place]Fink's Slaughterhouse[-place] is, perhaps unsurprisingly, full of murderous bandits. You'll have to survive five separate rounds, each with multiple waves of enemies.",
+    "is_plot_critical": false,
+    "can_be_failed": true
+  },
+  "GD_Z1_BearerBadNews.M_BearerBadNews": {
+    "number": -1,
+    "name": "Bearer of Bad News",
+    "description": "Handsome Jack murdered Roland. His friends, both within [place]Sanctuary[-place] and without, have not yet been notified. Mordecai has asked you to break the news to them. ",
+    "is_plot_critical": false,
+    "can_be_failed": false
+  },
+  "GD_Z1_ChildrenOfPhoenix.M_EternalFlame": {
+    "number": -1,
+    "name": "Cult Following: Eternal Flame",
+    "description": "Lilith has asked you to infiltrate a clan of cultists who worship her as a goddess. As far as Lilith's concerned, this could be awesome, creepy, or both -- she's asked you to investigate the clan from the inside to see if they're up to anything creepy. You'll have to speak to the cult leader, Incinerator Clayton, to become a cultist.",
+    "is_plot_critical": false,
+    "can_be_failed": false
+  },
+  "GD_Z1_ChildrenOfPhoenix.M_FalseIdols": {
+    "number": -1,
+    "name": "Cult Following: False Idols",
+    "description": "Incinerator Clayton has asked you to kill Scorch, a demigod (his words) who is stealing (also his words) followers from the Firehawk, despite the fact that Lilith doesn't give a spiderant's patootie about who worships her (not his words).",
+    "is_plot_critical": false,
+    "can_be_failed": false
+  },
+  "GD_Z1_ChildrenOfPhoenix.M_LightingTheMatch": {
+    "number": -1,
+    "name": "Cult Following: Lighting the Match",
+    "description": "Incinerator Clayton wants you to take a mass-murdering midget named Matchstick to the freighter in [place]Southern Shelf[-place], put him in the mouth of the mechanized dragon head at the ship's prow, and then burn him alive. To the Children of the Firehawk, this is not punishment -- this is a reward.",
+    "is_plot_critical": false,
+    "can_be_failed": false
+  },
+  "GD_Z1_ChildrenOfPhoenix.M_TheEnkindling": {
+    "number": -1,
+    "name": "Cult Following: The Enkindling",
+    "description": "Lilith is relatively sure that the Children of the Firehawk are harmless, but she wants you to investigate this whole ''Enkindling'' thing before you let the cult off the hook entirely.",
+    "is_plot_critical": false,
+    "can_be_failed": false
+  },
+  "GD_Z1_ClapTrapStash.M_ClapTrapStash": {
+    "number": -1,
+    "name": "Claptrap's Secret Stash",
+    "description": "Claptrap is willing to grant you access to his secret stash in [place]Sanctuary[-place], but only if you're willing to jump through a few (hundred) hoops for him.",
+    "is_plot_critical": false,
+    "can_be_failed": false
+  },
+  "GD_Z1_HandsomeJackHere.M_HandsomeJackHere": {
+    "number": -1,
+    "name": "Handsome Jack Here!",
+    "description": "You found one of Helena Pierce's final audio logs in [place]Southern Shelf[-place], recorded just before her disappearance. Sir Hammerlock is curious of Pierce's ultimate fate and wants you to find the rest of the audio logs. ",
+    "is_plot_critical": false,
+    "can_be_failed": false
+  },
+  "GD_Z1_InMemoriam.M_InMemoriam": {
+    "number": -1,
+    "name": "In Memoriam",
+    "description": "Lilith faked her death a couple of years ago in order to throw Hyperion off her scent. Unfortunately, a particularly enterprising bandit in [place]Three Horns Divide[-place] managed to bug Lilith's hideout and plans to sell the recordings to Hyperion. You must find this man and kill him.",
+    "is_plot_critical": false,
+    "can_be_failed": false
+  },
+  "GD_Z1_MineAllMine.M_MineAllMine": {
+    "number": -1,
+    "name": "Mine, All Mine",
+    "description": "Lilith has asked you to investigate an Eridium mine in [place]Tundra Express[-place]. Given how dangerous unrefined Eridium can be in the wrong hands -- which is to say, any hands that aren't Lilith's, Roland's, or yours -- Lilith has asked you to exterminate the bandits at the mine and find out where they're sending the Eridium.",
+    "is_plot_critical": false,
+    "can_be_failed": false
+  },
+  "GD_Z1_ShootMeInTheFace.M_ShootMeInTheFace": {
+    "number": 20,
+    "name": "Shoot This Guy in the Face",
+    "description": "A psycho in the [place]Lair of Infinite Agony[-place] has asked you to shoot him in the face.",
+    "is_plot_critical": false,
+    "can_be_failed": true
+  },
+  "GD_Z1_Symbiosis.M_Symbiosis": {
+    "number": -1,
+    "name": "Symbiosis",
+    "description": "Sir Hammerlock has heard rumors of a midget hiding out within [place]Southern Shelf Bay[-place], who formed a symbiotic relationship with a bullymong. He's asked you to find it and kill it.",
+    "is_plot_critical": false,
+    "can_be_failed": false
+  },
+  "GD_Z1_ThisTown.M_ThisTown": {
+    "number": -1,
+    "name": "This Town Ain't Big Enough",
+    "description": "Sir Hammerlock asked you to rid [place]Liar's Berg[-place] of bullymongs. While the residents of the town were murdered by bandits weeks ago, Hammerlock nonetheless feels that their former homes should not be torn up by feces-tossing ape creatures.",
+    "is_plot_critical": false,
+    "can_be_failed": false
+  },
+  "GD_Z1_TrainRobbery.M_TrainRobbery": {
+    "number": -1,
+    "name": "The Pretty Good Train Robbery",
+    "description": "Lilith discovered that some of the Hyperion trains heading through [place]Tundra Express[-place] carry a buttload of cash. If you can stop one of the trains and blow it open, you'll be able to steal the cash it's carrying. ",
+    "is_plot_critical": false,
+    "can_be_failed": false
+  },
+  "GD_Z2_ClaptrapBirthdayBash.M_ClaptrapBirthdayBash": {
+    "number": -1,
+    "name": "Claptrap's Birthday Bash!",
+    "description": "It's been seven years since Claptrap was first built, and he wants to celebrate the occasion. He's asked you to invite some of his closest friends to his birthday bash in [place]Sanctuary[-place]. Once you've done that, all you need to do is have fun at the party! ",
+    "is_plot_critical": false,
+    "can_be_failed": true
+  },
+  "GD_Z2_CreatureSlaughter.M_CreatureSlaughter_1": {
+    "number": -1,
+    "name": "Creature Slaughter: Round 1",
+    "description": "You've stumbled upon Moxxi's second Circle of Slaughter. This [place]Natural Selection Annex[-place], run by Captain Cabrera, specializes in creatures. Can you survive the waves of snarling, growling hatred Cabrera will throw at you?",
+    "is_plot_critical": false,
+    "can_be_failed": true
+  },
+  "GD_Z2_CreatureSlaughter.M_CreatureSlaughter_2": {
+    "number": -1,
+    "name": "Creature Slaughter: Round 2",
+    "description": "You've stumbled upon Moxxi's second Circle of Slaughter. This [place]Natural Selection Annex[-place], run by Captain Cabrera, specializes in creatures. Can you survive the waves of snarling, growling hatred Cabrera will throw at you?",
+    "is_plot_critical": false,
+    "can_be_failed": true
+  },
+  "GD_Z2_CreatureSlaughter.M_CreatureSlaughter_3": {
+    "number": -1,
+    "name": "Creature Slaughter: Round 3",
+    "description": "You've stumbled upon Moxxi's second Circle of Slaughter. This [place]Natural Selection Annex[-place], run by Captain Cabrera, specializes in creatures. Can you survive the waves of snarling, growling hatred Cabrera will throw at you?",
+    "is_plot_critical": false,
+    "can_be_failed": true
+  },
+  "GD_Z2_CreatureSlaughter.M_CreatureSlaughter_4": {
+    "number": -1,
+    "name": "Creature Slaughter: Round 4",
+    "description": "You've stumbled upon Moxxi's second Circle of Slaughter. This [place]Natural Selection Annex[-place], run by Captain Cabrera, specializes in creatures. Can you survive the waves of snarling, growling hatred Cabrera will throw at you?",
+    "is_plot_critical": false,
+    "can_be_failed": true
+  },
+  "GD_Z2_CreatureSlaughter.M_CreatureSlaughter_5": {
+    "number": -1,
+    "name": "Creature Slaughter: Round 5",
+    "description": "You've stumbled upon Moxxi's second Circle of Slaughter. This [place]Natural Selection Annex[-place], run by Captain Cabrera, specializes in creatures. Can you survive the waves of snarling, growling hatred Cabrera will throw at you?",
+    "is_plot_critical": false,
+    "can_be_failed": true
+  },
+  "GD_Z2_FreeWilly.M_FreeWilly": {
+    "number": -1,
+    "name": "Animal Rights",
+    "description": "Mordecai, furious over Bloodwing's death, asked you to head to the [place]Hyperion Exploitation Preserve[-place] and free three separate creatures from imprisonment so they can tear the staff apart.",
+    "is_plot_critical": false,
+    "can_be_failed": false
+  },
+  "GD_Z2_HomeMovies.M_HomeMovies": {
+    "number": -1,
+    "name": "Home Movies",
+    "description": "Lilith wants you to hijack Hyperion's dishonest tourism propaganda and replace it with something a little more truthful. And violent.",
+    "is_plot_critical": false,
+    "can_be_failed": false
+  },
+  "GD_Z2_HyperionStatue.M_MonumentsVandalism": {
+    "number": -1,
+    "name": "Statuesque",
+    "description": "Claptrap has asked you to destroy the statues of Handsome Jack in [place]Opportunity[-place], because evidently destroying an image of the bad guy is more important than actually trying to kill the bad guy.",
+    "is_plot_critical": false,
+    "can_be_failed": false
+  },
+  "GD_Z2_Rakkaholics.M_Rakkaholics": {
+    "number": -1,
+    "name": "Rakkaholics Anonymous",
+    "description": "Given what happened to Bloodwing, Mordecai wants to get superbly drunk. He has, quite simply, asked you to get him enough booze to knock out a rakk hive. You can steal some rakk-ale from the booze runners in [place]The Dust[-place].",
+    "is_plot_critical": false,
+    "can_be_failed": false
+  },
+  "GD_Z2_TheBankJob.M_TheBankJob": {
+    "number": -1,
+    "name": "Breaking the Bank",
+    "description": "[place]Lynchwood[-place] has a bank. Brick has decided that banks were built for one reason, and one reason only: to be robbed.",
+    "is_plot_critical": false,
+    "can_be_failed": false
+  },
+  "GD_Z2_ThresherRaid.M_ThresherRaid": {
+    "number": -1,
+    "name": "You. Will. Die. (Seriously.)",
+    "description": "Patricia Tannis has asked you to kill a really, really, really (really) dangerous thresher named Terramorphous the Invincible. Rumors say that it drops some of the best loot found on Pandora. The rumors also say that you'll almost certainly need a group of four people to vanquish it.",
+    "is_plot_critical": false,
+    "can_be_failed": false
+  },
+  "GD_Z3_Bane.M_Bane": {
+    "number": 12,
+    "name": "The Bane",
+    "description": "You have heard rumors of a powerful, cursed gun known as The Bane. With some help from Marcus Kincaid, you may be able to find this legendary weapon.",
+    "is_plot_critical": false,
+    "can_be_failed": false
+  },
+  "GD_Z3_RobotSlaughter.M_RobotSlaughter_1": {
+    "number": -1,
+    "name": "Hyperion Slaughter: Round 1",
+    "description": "You've found Moxxi's final Circle of Slaughter. This circle, run by Innuendobot 5000 (a Hyperion loader reprogrammed by Moxxi to speak almost entirely in double entendres), will throw every manner of Hyperion enemy at you. If you can survive all five rounds, you'll earn a considerable reward.",
+    "is_plot_critical": false,
+    "can_be_failed": true
+  },
+  "GD_Z3_RobotSlaughter.M_RobotSlaughter_2": {
+    "number": -1,
+    "name": "Hyperion Slaughter: Round 2",
+    "description": "You've found Moxxi's final Circle of Slaughter. This circle, run by Innuendobot 5000 (a Hyperion loader reprogrammed by Moxxi to speak almost entirely in double entendres), will throw every manner of Hyperion enemy at you. If you can survive all five rounds, you'll earn a considerable reward.",
+    "is_plot_critical": false,
+    "can_be_failed": true
+  },
+  "GD_Z3_RobotSlaughter.M_RobotSlaughter_3": {
+    "number": -1,
+    "name": "Hyperion Slaughter: Round 3",
+    "description": "You've found Moxxi's final Circle of Slaughter. This circle, run by Innuendobot 5000 (a Hyperion loader reprogrammed by Moxxi to speak almost entirely in double entendres), will throw every manner of Hyperion enemy at you. If you can survive all five rounds, you'll earn a considerable reward.",
+    "is_plot_critical": false,
+    "can_be_failed": true
+  },
+  "GD_Z3_RobotSlaughter.M_RobotSlaughter_4": {
+    "number": -1,
+    "name": "Hyperion Slaughter: Round 4",
+    "description": "You've found Moxxi's final Circle of Slaughter. This circle, run by Innuendobot 5000 (a Hyperion loader reprogrammed by Moxxi to speak almost entirely in double entendres), will throw every manner of Hyperion enemy at you. If you can survive all five rounds, you'll earn a considerable reward.",
+    "is_plot_critical": false,
+    "can_be_failed": true
+  },
+  "GD_Z3_RobotSlaughter.M_RobotSlaughter_5": {
+    "number": -1,
+    "name": "Hyperion Slaughter: Round 5",
+    "description": "You've found Moxxi's final Circle of Slaughter. This circle, run by Innuendobot 5000 (a Hyperion loader reprogrammed by Moxxi to speak almost entirely in double entendres), will throw every manner of Hyperion enemy at you. If you can survive all five rounds, you'll earn a considerable reward.",
+    "is_plot_critical": false,
+    "can_be_failed": true
+  },
+  "GD_Z3_ThisJustIn.M_ThisJustIn": {
+    "number": -1,
+    "name": "This Just In",
+    "description": "Since your arrival on Pandora, Hunter Hellquist, of Hyperion Truth Broadcasting, has been spreading lies about your exploits. Mordecai has tracked down the source of those broadcasts and asked you to silence them for good.",
+    "is_plot_critical": false,
+    "can_be_failed": false
+  }
+}

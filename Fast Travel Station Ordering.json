@@ -1,0 +1,51 @@
+﻿{
+  "GD_Aster_FastTravel.StationsList.AsterStationsList": {
+    "stations": [
+      "GD_Aster_FastTravel.Docks",
+      "GD_Aster_FastTravel.Village",
+      "GD_Aster_FastTravel.DarkForest",
+      "GD_Aster_FastTravel.DeadForest",
+      "GD_Aster_FastTravel.Mines",
+      "GD_Aster_FastTravel.CastleExterior",
+      "GD_Aster_FastTravel.Dungeons",
+      "GD_Aster_FastTravel.CastleKeep"
+    ],
+    "dlc_expansion": "GD_AsterPackageDef.ExpansionDef_Aster"
+  },
+  "GD_FastTravelStations.StationsList.MainGameStationsList": {
+    "stations": [
+      "GD_FastTravelStations.Sanctuary.Sanctuary",
+      "GD_FastTravelStations.Zone1.Glacial",
+      "GD_FastTravelStations.Zone1.GlacialIgloo",
+      "GD_FastTravelStations.Zone1.SouthernShelfTown",
+      "GD_FastTravelStations.Zone1.IceEast",
+      "GD_FastTravelStations.Zone1.IceWest",
+      "GD_FastTravelStations.Zone1.SouthpawFactory",
+      "GD_FastTravelStations.Zone1.IceCanyon",
+      "GD_FastTravelStations.Interlude.Interlude",
+      "GD_FastTravelStations.Zone1.GoshDam",
+      "GD_FastTravelStations.Zone1.DamTop",
+      "GD_FastTravelStations.Zone1.TundraExpress",
+      "GD_FastTravelStations.Zone1.TundraExpressSecret",
+      "GD_FastTravelStations.Wilhelm",
+      "GD_FastTravelStations.Zone2.TheFridge",
+      "GD_FastTravelStations.Outwash",
+      "GD_FastTravelStations.Zone2.Grass_A",
+      "GD_FastTravelStations.Zone2.Grass_B",
+      "GD_FastTravelStations.Zone2.Grass_C",
+      "GD_FastTravelStations.Zone1.Caverns",
+      "GD_FastTravelStations.Zone2.PandoraPark",
+      "GD_FastTravelStations.Zone2.Cliffs",
+      "GD_FastTravelStations.Zone2.Cliffs_Boss",
+      "GD_FastTravelStations.Interlude.Lynchwood",
+      "GD_FastTravelStations.Zone2.HyperionCity",
+      "GD_FastTravelStations.Zone3.Ash",
+      "GD_FastTravelStations.Zone3.CraterLake",
+      "GD_FastTravelStations.Zone3.OnFireStone",
+      "GD_FastTravelStations.FyrestoneOneWay",
+      "GD_FastTravelStations.Zone3.FinalBossAscent",
+      "GD_FastTravelStations.Zone3.Volcano_Boss_A",
+      "GD_FastTravelStations.Zone3.Volcano_Boss_B"
+    ]
+  }
+}

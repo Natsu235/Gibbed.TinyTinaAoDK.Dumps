@@ -425,7 +425,7 @@
     ],
     "parts": "GD_Artifacts.PartLists.Parts_Vitality_Rare"
   },
-  /*
+/*
   "GD_Artifacts.A_Item_Unique.A_Afterburner": {
     "item": "GD_Artifacts.A_Item_Unique.Artifact_Afterburner",
     "manufacturers": [
@@ -447,14 +447,14 @@
     ],
     "parts": "GD_Artifacts.PartLists_Unique.Parts_Endowment"
   },
-  "GD_Artifacts.A_Item_Unique.A_Opportunity": {
+*/
+  "GD_Artifacts.A_Item_Unique.A_Opportunity": {    // Flamerock Refuge
     "item": "GD_Artifacts.A_Item_Unique.Artifact_Opportunity",
     "manufacturers": [
       "GD_Manufacturers.Artifacts.Artifact_TypeA"
     ],
     "parts": "GD_Artifacts.PartLists_Unique.Parts_Opportunity"
   },
-  */
   "GD_Artifacts.A_Item_Unique.A_Sheriff": {
     "item": "GD_Artifacts.A_Item_Unique.Artifact_Sheriff",
     "manufacturers": [
@@ -1237,6 +1237,20 @@
       "GD_Manufacturers.Manufacturers.Dahl"
     ]
   },
+  /*
+  "GD_Episode04Data.ItemDefs.BD_Ep4_FireHawkMessage": {
+    "item": "GD_Episode04Data.ItemDefs.ID_Ep4_FireHawkMessage",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Stock"
+    ]
+  },
+  "GD_Episode04Data.ItemDefs.BD_Ep4_RolandsMessage": {
+    "item": "GD_Episode04Data.ItemDefs.ID_Ep4_RolandsMessage",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Stock"
+    ]
+  },
+  */
   "GD_GrenadeMods.A_Item.GM_AreaEffect": {
     "item": "GD_GrenadeMods.A_Item.GrenadeMod_Standard",
     "manufacturers": [
@@ -1622,7 +1636,6 @@
       "GD_Manufacturers.Manufacturers.Stock"
     ]
   },
-  /*
   "GD_ItemGrades.Ammo_Shop.ItemGrade_AmmoShop_CombatRifle": {
     "item": "GD_Ammodrops.Shop.AmmoShop_Assault_Rifle_Bullets",
     "manufacturers": [
@@ -1665,7 +1678,6 @@
       "GD_Manufacturers.Manufacturers.Stock"
     ]
   },
-  */
   "GD_ItemGrades.BuffDrink.ItemGrade_BuffDrink_HealingInstant": {
     "item": "GD_BuffDrinks.A_Item.BuffDrink_HealingInstant",
     "manufacturers": [
@@ -2116,14 +2128,12 @@
       "GD_Manufacturers.Manufacturers.Vladof"
     ]
   },
-  /*
-  "GD_ItemGrades.Shields.ItemGrade_Gear_Shield_Absorption_1340": {
+  "GD_ItemGrades.Shields.ItemGrade_Gear_Shield_Absorption_1340": {    // Flamerock Refuge
     "item": "GD_Shields.A_Item.Shield_Absorption_1340",
     "manufacturers": [
       "GD_Manufacturers.Manufacturers.Vladof"
     ]
   },
-  */
   "GD_ItemGrades.Shields.ItemGrade_Gear_Shield_Absorption_Equitas": {
     "item": "GD_Shields.A_Item.Shield_Absorption_Aequitas",
     "manufacturers": [
@@ -5337,4 +5347,12 @@
     ],
     "parts": "GD_Tulip_ItemGrades.ClassMods.BalDef_ClassMod_Mechromancer_06_SlayerOfTerramorphous.PartList"
   }
+  /*
+  "GD_Z3_OutOfBodyData.BalanceDefs.BD_MO_OutofBody_AICore4": {
+    "item": "GD_Z3_OutOfBodyData.ItemDefs.ID_MO_OutofBody_AICore4",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Stock"
+    ]
+  }
+  */
 }

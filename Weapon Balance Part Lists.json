@@ -260,52 +260,6 @@
   },
   "GD_Aster_Weapons.Snipers.SR_Maliwan_4_Aquamarine.PartList": {
     "mode": "Selective",
-    "weapon_type": "GD_Weap_SMG.A_Weapons.WT_SMG_Maliwan",
-    "body": [
-      "GD_Weap_SMG.Body.SMG_Body_Maliwan_VarC"
-    ],
-    "grip": [
-      "GD_Weap_SMG.Grip.SMG_Grip_Tediore",
-      "GD_Weap_SMG.Grip.SMG_Grip_Bandit",
-      "GD_Weap_SMG.Grip.SMG_Grip_Dahl",
-      "GD_Weap_SMG.Grip.SMG_Grip_Maliwan",
-      "GD_Weap_SMG.Grip.SMG_Grip_Hyperion"
-    ],
-    "barrel": [
-      "GD_Weap_SMG.Barrel.SMG_Barrel_Tediore",
-      "GD_Weap_SMG.Barrel.SMG_Barrel_Bandit",
-      "GD_Weap_SMG.Barrel.SMG_Barrel_Dahl",
-      "GD_Weap_SMG.Barrel.SMG_Barrel_Maliwan",
-      "GD_Weap_SMG.Barrel.SMG_Barrel_Hyperion"
-    ],
-    "sight": [
-      "GD_Weap_SMG.Sight.SMG_Sight_Tedior",
-      "GD_Weap_SMG.Sight.SMG_Sight_Bandit",
-      "GD_Weap_SMG.Sight.SMG_Sight_Dahl",
-      "GD_Weap_SMG.Sight.SMG_Sight_Maliwan",
-      "GD_Weap_SMG.Sight.SMG_Sight_Hyperion"
-    ],
-    "stock": [
-      "GD_Weap_SMG.Stock.SMG_Stock_Tediore",
-      "GD_Weap_SMG.Stock.SMG_Stock_Bandit",
-      "GD_Weap_SMG.Stock.SMG_Stock_Dahl",
-      "GD_Weap_SMG.Stock.SMG_Stock_Maliwan",
-      "GD_Weap_SMG.Stock.SMG_Stock_Hyperion"
-    ],
-    "elemental": [
-      "GD_Weap_SMG.elemental.SMG_Elemental_Fire",
-      "GD_Weap_SMG.elemental.SMG_Elemental_Corrosive",
-      "GD_Weap_SMG.elemental.SMG_Elemental_Shock",
-      "GD_Weap_SMG.elemental.SMG_Elemental_Slag"
-    ],
-    "accessory1": [
-      "GD_Weap_SMG.Accessory.SMG_Accessory_Bayonet_1",
-      "GD_Weap_SMG.Accessory.SMG_Accessory_Body1_Accurate",
-      "GD_Weap_SMG.Accessory.SMG_Accessory_Body2_Damage",
-      "GD_Weap_SMG.Accessory.SMG_Accessory_Body3_Accelerated",
-      "GD_Weap_SMG.Accessory.SMG_Accessory_Stock1_Stabilized",
-      "GD_Weap_SMG.Accessory.SMG_Accessory_Stock2_Reload"
-    ],
     "material": [
       "GD_Aster_Weapons.ManufacturerMaterials.Mat_Malwan_4_Aquamarine_SR"
     ]
@@ -316,7 +270,46 @@
       "GD_Aster_Weapons.ManufacturerMaterials.Mat_Vladof_4_Garnet_SR"
     ]
   },
-  "GD_Gladiolus_Weapons.AssaultRifle.AR_Bandit_6_Sawbar.PartList": {
+  /*
+  "GD_Flynt.Weapons.AR_Flynt.PartList": {
+    "mode": "Selective",
+    "body": [
+      "GD_Weap_AssaultRifle.Body.AR_Body_Bandit_2"
+    ],
+    "barrel": [
+      "GD_Weap_AssaultRifle.Barrel.AR_Barrel_Bandit",
+      "GD_Weap_AssaultRifle.Barrel.AR_Barrel_Dahl",
+      "GD_Weap_AssaultRifle.Barrel.AR_Barrel_Jakobs",
+      "GD_Weap_AssaultRifle.Barrel.AR_Barrel_Vladof",
+      "GD_Weap_AssaultRifle.Barrel.AR_Barrel_Vladof_Minigun"
+    ],
+    "sight": [
+      "GD_Weap_AssaultRifle.Sight.AR_Sight_None",
+      "GD_Weap_AssaultRifle.Sight.AR_Sight_Bandit",
+      "GD_Weap_AssaultRifle.Sight.AR_Sight_Dahl",
+      "GD_Weap_AssaultRifle.Sight.AR_Sight_Vladof",
+      "GD_Weap_AssaultRifle.Sight.AR_Sight_Torgue",
+      "GD_Weap_AssaultRifle.Sight.AR_Sight_Jakobs"
+    ],
+    "elemental": [
+      "GD_Weap_AssaultRifle.elemental.AR_Elemental_Fire"
+    ],
+    "accessory1": [
+      "GD_Weap_AssaultRifle.Accessory.AR_Accessory_None",
+      "GD_Weap_AssaultRifle.Accessory.AR_Accessory_Foregrip_Stability",
+      "GD_Weap_AssaultRifle.Accessory.AR_Accessory_Bayonet_2",
+      "GD_Weap_AssaultRifle.Accessory.AR_Accessory_BanditClamp_Damage",
+      "GD_Weap_AssaultRifle.Accessory.AR_Accessory_BanditClamp_Wild",
+      "GD_Weap_AssaultRifle.Accessory.AR_Accessory_Box_BulletSpeed",
+      "GD_Weap_AssaultRifle.Accessory.AR_Accessory_Shroud1_MagSize",
+      "GD_Weap_AssaultRifle.Accessory.AR_Accessory_Shroud2_Accuracy"
+    ],
+    "material": [
+      "GD_Weap_AssaultRifle.ManufacturerMaterials.Mat_BanditMade_2"
+    ]
+  },
+  */
+  "GD_Gladiolus_Weapons.AssaultRifle.AR_Bandit_6_Sawbar.PartList": {    // Flamerock Refuge
     "mode": "Selective",
     "body": [
       "GD_Gladiolus_Weapons.AssaultRifle.AR_Body_Bandit_6_Sawbar"
@@ -331,7 +324,7 @@
       "GD_Gladiolus_Weapons.ManufacturerMaterials.Mat_Bandit_6_Sawbar"
     ]
   },
-  "GD_Gladiolus_Weapons.AssaultRifle.AR_Dahl_6_Bearcat.PartList": {
+  "GD_Gladiolus_Weapons.AssaultRifle.AR_Dahl_6_Bearcat.PartList": {    // Flamerock Refuge
     "mode": "Selective",
     "body": [
       "GD_Gladiolus_Weapons.AssaultRifle.AR_Body_Dahl_6_Bearcat"
@@ -343,7 +336,7 @@
       "GD_Gladiolus_Weapons.ManufacturerMaterials.Mat_Dahl_6_Bearcat"
     ]
   },
-  "GD_Gladiolus_Weapons.Launchers.RL_Torgue_6_Tunguska.PartList": {
+  "GD_Gladiolus_Weapons.Launchers.RL_Torgue_6_Tunguska.PartList": {    // Flamerock Refuge
     "mode": "Selective",
     "body": [
       "GD_Gladiolus_Weapons.Launchers.L_Body_Torgue_6"
@@ -355,7 +348,7 @@
       "GD_Gladiolus_Weapons.ManufacturerMaterials.Mat_Torgue_6_Tunguska"
     ]
   },
-  "GD_Gladiolus_Weapons.Pistol.Pistol_Jakobs_6_Unforgiven.PartList": {
+  "GD_Gladiolus_Weapons.Pistol.Pistol_Jakobs_6_Unforgiven.PartList": {    // Flamerock Refuge
     "mode": "Selective",
     "body": [
       "GD_Gladiolus_Weapons.Pistol.Pistol_Body_Jakobs_6"
@@ -367,7 +360,7 @@
       "GD_Gladiolus_Weapons.ManufacturerMaterials.Mat_Jakobs_6_Unforgiven"
     ]
   },
-  "GD_Gladiolus_Weapons.Pistol.Pistol_Vladof_6_Stalker.PartList": {
+  "GD_Gladiolus_Weapons.Pistol.Pistol_Vladof_6_Stalker.PartList": {    // Flamerock Refuge
     "mode": "Selective",
     "body": [
       "GD_Gladiolus_Weapons.Pistol.Pistol_Body_Vladof_6"
@@ -379,7 +372,7 @@
       "GD_Gladiolus_Weapons.ManufacturerMaterials.Mat_Vladof_6_Stalker"
     ]
   },
-  "GD_Gladiolus_Weapons.Shotgun.SG_Hyperion_6_Butcher.PartList": {
+  "GD_Gladiolus_Weapons.Shotgun.SG_Hyperion_6_Butcher.PartList": {    // Flamerock Refuge
     "mode": "Selective",
     "body": [
       "GD_Gladiolus_Weapons.Shotgun.SG_Body_Hyperion_6"
@@ -391,7 +384,7 @@
       "GD_Gladiolus_Weapons.ManufacturerMaterials.Mat_Hyperion_6_Butcher"
     ]
   },
-  "GD_Gladiolus_Weapons.SMG.SMG_Tediore_6_Avenger.PartList": {
+  "GD_Gladiolus_Weapons.SMG.SMG_Tediore_6_Avenger.PartList": {    // Flamerock Refuge
     "mode": "Selective",
     "body": [
       "GD_Gladiolus_Weapons.SMG.SMG_Body_Tediore_6_Avenger"
@@ -403,7 +396,7 @@
       "GD_Gladiolus_Weapons.ManufacturerMaterials.Mat_Tediore_6_Avenger"
     ]
   },
-  "GD_Gladiolus_Weapons.sniper.Sniper_Maliwan_6_Storm.PartList": {
+  "GD_Gladiolus_Weapons.sniper.Sniper_Maliwan_6_Storm.PartList": {    // Flamerock Refuge
     "mode": "Selective",
     "body": [
       "GD_Gladiolus_Weapons.sniper.SR_Body_Maliwan_6_Storm"
@@ -416,6 +409,29 @@
     ],
     "material": [
       "GD_Gladiolus_Weapons.ManufacturerMaterials.Mat_Maliwan_6_Storm"
+    ]
+  },
+  "GD_Lilac_SkillsBase.Buzzaxe.Buzzaxe.PartList": {
+    "mode": "Additive",
+    "weapon_type": "GD_Lilac_SkillsBase.Buzzaxe.WeaponType_Buzzaxe",
+    "body": [
+      "GD_Lilac_SkillsBase.Buzzaxe.Dynamite_Buzzaxe"
+    ],
+    "grip": [
+      "GD_Lilac_SkillsBase.Buzzaxe.Grip_Buzzaxe"
+    ],
+    "barrel": [
+      "GD_Lilac_SkillsBase.Buzzaxe.Blades_Buzzaxe"
+    ],
+    "stock": [
+      "GD_Lilac_SkillsBase.Buzzaxe.BottomSpike_Buzzaxe"
+    ],
+    "accessory1": [
+      "GD_Lilac_SkillsBase.Buzzaxe.Claw_Buzzaxe"
+    ],
+    "material": [
+      "GD_Lilac_SkillsBase.Buzzaxe.Material_Buzzaxe",
+      "GD_Lilac_SkillsBase.Buzzaxe.Material_Buzzaxe_Fire"
     ]
   },
   "GD_Weap_AssaultRifle.A_Weapons.AR_Bandit.PartList": {
@@ -4848,6 +4864,32 @@
       "GD_Weap_SniperRifles.ManufacturerMaterials.Material_Maliwan_3"
     ]
   },
+  /*
+  "GD_Weap_SniperRifles.A_Weapons.Sniper_Maliwan_4_Mordecai.PartList": {
+    "mode": "Selective",
+    "body": [
+      "GD_Weap_SniperRifles.Body.SR_Body_Maliwan_4"
+    ],
+    "barrel": [
+      "GD_Weap_SniperRifles.Barrel.SR_Barrel_Jakobs"
+    ],
+    "sight": [
+      "GD_Weap_SniperRifles.Sight.Sniper_Sight_Jakobs"
+    ],
+    "stock": [
+      "GD_Weap_SniperRifles.Stock.SR_Stock_Jakobs"
+    ],
+    "elemental": [
+      "GD_Weap_SniperRifles.elemental.SR_Elemental_Slag"
+    ],
+    "accessory1": [
+      "GD_Weap_SniperRifles.Accessory.Sniper_Accessory_Bipod2_Critical"
+    ],
+    "material": [
+      "GD_Weap_SniperRifles.ManufacturerMaterials.Material_Maliwan_4"
+    ]
+  },
+  */
   "GD_Weap_SniperRifles.A_Weapons.Sniper_Maliwan_4_VeryRare.PartList": {
     "mode": "Selective",
     "body": [

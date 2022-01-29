@@ -59,7 +59,6 @@
     "has_full_name": true,
     "type": "UsableItem"
   },
-  /*
   "GD_Ammodrops.Shop.AmmoShop_Assault_Rifle_Bullets": {
     "name": "Assault Rifle Ammo",
     "has_full_name": true,
@@ -95,7 +94,6 @@
     "has_full_name": true,
     "type": "UsableItem"
   },
-  */
   "GD_Artifacts.A_Item.Artifact_AggressionA": {
     "name": "Aggression Relic",
     "has_full_name": true,
@@ -334,7 +332,8 @@
     "eta_parts": "GD_Artifacts.Body.PartList_Body",
     "theta_parts": "GD_Artifacts.Upgrade.PartList_Upgrade"
   },
-  "GD_Artifacts.A_Item_Unique.Artifact_Opportunity": {
+  */
+  "GD_Artifacts.A_Item_Unique.Artifact_Opportunity": {    // Flamerock Refuge
     "name": "Lucrative Opportunity",
     "has_full_name": true,
     "type": "Artifact",
@@ -343,7 +342,6 @@
     "eta_parts": "GD_Artifacts.Body.PartList_Body",
     "theta_parts": "GD_Artifacts.Upgrade.PartList_Upgrade"
   },
-  */
   "GD_Artifacts.A_Item_Unique.Artifact_Sheriff": {
     "name": "Sheriff's Badge",
     "has_full_name": true,
@@ -2270,6 +2268,18 @@
     "has_full_name": true,
     "type": "UsableItem"
   },
+  /*
+  "GD_Episode04Data.ItemDefs.ID_Ep4_FireHawkMessage": {
+    "name": "ECHO Recorder",
+    "has_full_name": true,
+    "type": "MissionItem"
+  },
+  "GD_Episode04Data.ItemDefs.ID_Ep4_RolandsMessage": {
+    "name": "Command Center Key",
+    "has_full_name": true,
+    "type": "MissionItem"
+  },
+  */
   "GD_GrenadeMods.A_Item.GrenadeMod_Standard": {
     "name": "Grenade Mod",
     "type": "GrenadeMod",
@@ -3845,8 +3855,7 @@
     "delta_parts": "GD_Shields.Accessory.PartsList_Accessory_Absorption_LegendaryShock",
     "material_parts": "GD_Shields.Material.PartsList_Materials_Absorption_LegendaryShock"
   },
-  /*
-  "GD_Shields.A_Item.Shield_Absorption_1340": {
+  "GD_Shields.A_Item.Shield_Absorption_1340": {     // Flamerock Refuge
     "name": "Orb Shield",
     "type": "Shield",
     "alpha_parts": "GD_Shields.Body.PartsList_Body_Absorption",
@@ -3855,7 +3864,6 @@
     "delta_parts": "GD_Shields.Accessory.PartsList_Accessory_Absorption_1340",
     "material_parts": "GD_Shields.Material.PartsList_Materials_Absorption_1340"
   },
-  */
   "GD_Shields.A_Item.Shield_Absorption_Aequitas": {
     "name": "Orb Shield",
     "type": "Shield",
@@ -5258,4 +5266,11 @@
     "gamma_parts": "GD_ClassMods.StatPrimary02.Z_PartsList_PrimaryStat02Parts",
     "material_parts": "GD_ClassMods.StatPenalty.Z_PartsList_StatPenaltyParts"
   }
+  /*
+  "GD_Z3_OutOfBodyData.ItemDefs.ID_MO_OutofBody_AICore4": {
+    "name": "AI Core",
+    "has_full_name": true,
+    "type": "MissionItem"
+  }
+  */
 }

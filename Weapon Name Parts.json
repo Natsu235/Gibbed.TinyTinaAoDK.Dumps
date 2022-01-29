@@ -287,6 +287,9 @@
   "GD_Weap_AssaultRifle.Name.Title.Title_Rifle": {
     "name": "Rifle"
   },
+  "GD_Weap_AssaultRifle.Name.Title.Title_Unique_EvilSmasher": {    // Flamerock Refuge
+    "name": "Evil Smasher"
+  },
   "GD_Weap_AssaultRifle.Name.Title.Title_Unique_Hail": {
     "name": "Hail"
   },

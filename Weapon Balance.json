@@ -147,37 +147,50 @@
     "base": "GD_Weap_SniperRifles.A_Weapons.Sniper_Vladof_4_VeryRare",
     "parts": "GD_Aster_Weapons.Snipers.SR_Vladof_4_Garnet.PartList"
   },
-  "GD_Gladiolus_Weapons.AssaultRifle.AR_Bandit_6_Sawbar": {
+  /*
+  "GD_Flynt.Weapons.AR_Flynt": {
+    "base": "GD_Weap_AssaultRifle.A_Weapons.AR_Bandit",
+    "parts": "GD_Flynt.Weapons.AR_Flynt.PartList"
+  },
+  */
+  "GD_Gladiolus_Weapons.AssaultRifle.AR_Bandit_6_Sawbar": {    // Flamerock Refuge
     "base": "GD_Weap_AssaultRifle.A_Weapons.AR_Bandit_4_VeryRare",
     "parts": "GD_Gladiolus_Weapons.AssaultRifle.AR_Bandit_6_Sawbar.PartList"
   },
-  "GD_Gladiolus_Weapons.AssaultRifle.AR_Dahl_6_Bearcat": {
+  "GD_Gladiolus_Weapons.AssaultRifle.AR_Dahl_6_Bearcat": {    // Flamerock Refuge
     "base": "GD_Weap_AssaultRifle.A_Weapons.AR_Dahl_4_VeryRare",
     "parts": "GD_Gladiolus_Weapons.AssaultRifle.AR_Dahl_6_Bearcat.PartList"
   },
-  "GD_Gladiolus_Weapons.Launchers.RL_Torgue_6_Tunguska": {
+  "GD_Gladiolus_Weapons.Launchers.RL_Torgue_6_Tunguska": {    // Flamerock Refuge
     "base": "GD_Weap_Launchers.A_Weapons.RL_Torgue_4_VeryRare",
     "parts": "GD_Gladiolus_Weapons.Launchers.RL_Torgue_6_Tunguska.PartList"
   },
-  "GD_Gladiolus_Weapons.Pistol.Pistol_Jakobs_6_Unforgiven": {
+  "GD_Gladiolus_Weapons.Pistol.Pistol_Jakobs_6_Unforgiven": {    // Flamerock Refuge
     "base": "GD_Weap_Pistol.A_Weapons.Pistol_Jakobs_4_VeryRare",
     "parts": "GD_Gladiolus_Weapons.Pistol.Pistol_Jakobs_6_Unforgiven.PartList"
   },
-  "GD_Gladiolus_Weapons.Pistol.Pistol_Vladof_6_Stalker": {
+  "GD_Gladiolus_Weapons.Pistol.Pistol_Vladof_6_Stalker": {    // Flamerock Refuge
     "base": "GD_Weap_Pistol.A_Weapons.Pistol_Vladof_4_VeryRare",
     "parts": "GD_Gladiolus_Weapons.Pistol.Pistol_Vladof_6_Stalker.PartList"
   },
-  "GD_Gladiolus_Weapons.Shotgun.SG_Hyperion_6_Butcher": {
+  "GD_Gladiolus_Weapons.Shotgun.SG_Hyperion_6_Butcher": {    // Flamerock Refuge
     "base": "GD_Weap_Shotgun.A_Weapons.SG_Hyperion_4_VeryRare",
     "parts": "GD_Gladiolus_Weapons.Shotgun.SG_Hyperion_6_Butcher.PartList"
   },
-  "GD_Gladiolus_Weapons.SMG.SMG_Tediore_6_Avenger": {
+  "GD_Gladiolus_Weapons.SMG.SMG_Tediore_6_Avenger": {    // Flamerock Refuge
     "base": "GD_Weap_SMG.A_Weapons.SMG_Tediore_4_VeryRare",
     "parts": "GD_Gladiolus_Weapons.SMG.SMG_Tediore_6_Avenger.PartList"
   },
-  "GD_Gladiolus_Weapons.sniper.Sniper_Maliwan_6_Storm": {
+  "GD_Gladiolus_Weapons.sniper.Sniper_Maliwan_6_Storm": {    // Flamerock Refuge
     "base": "GD_Weap_SniperRifles.A_Weapons.Sniper_Maliwan_4_VeryRare",
     "parts": "GD_Gladiolus_Weapons.sniper.Sniper_Maliwan_6_Storm.PartList"
+  },
+  "GD_Lilac_SkillsBase.Buzzaxe.Buzzaxe": {
+    "weapon_type": "GD_Lilac_SkillsBase.Buzzaxe.WeaponType_Buzzaxe",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Bandit"
+    ],
+    "parts": "GD_Lilac_SkillsBase.Buzzaxe.Buzzaxe.PartList"
   },
   "GD_Weap_AssaultRifle.A_Weapons.AR_Bandit": {
     "weapon_type": "GD_Weap_AssaultRifle.A_Weapons.WT_Bandit_AssaultRifle",
@@ -1172,6 +1185,12 @@
     "base": "GD_Weap_SniperRifles.A_Weapons.Sniper_Maliwan_2_Uncommon",
     "parts": "GD_Weap_SniperRifles.A_Weapons.Sniper_Maliwan_3_Rare.PartList"
   },
+  /*
+  "GD_Weap_SniperRifles.A_Weapons.Sniper_Maliwan_4_Mordecai": {
+    "base": "GD_Weap_SniperRifles.A_Weapons.Sniper_Maliwan_3_Rare",
+    "parts": "GD_Weap_SniperRifles.A_Weapons.Sniper_Maliwan_4_Mordecai.PartList"
+  },
+  */
   "GD_Weap_SniperRifles.A_Weapons.Sniper_Maliwan_4_VeryRare": {
     "base": "GD_Weap_SniperRifles.A_Weapons.Sniper_Maliwan_3_Rare",
     "parts": "GD_Weap_SniperRifles.A_Weapons.Sniper_Maliwan_4_VeryRare.PartList"

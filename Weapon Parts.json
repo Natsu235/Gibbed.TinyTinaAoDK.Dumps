@@ -254,6 +254,126 @@
     ],
     "type": "Barrel"
   },
+  "GD_Gladiolus_Weapons.AssaultRifle.AR_Barrel_Jakobs_Sawbar": {
+    "titles": [
+      "GD_Gladiolus_Weapons.Name.Title.Title_Pearlescent_Sawbar"
+    ],
+    "type": "Barrel"
+  },
+  "GD_Gladiolus_Weapons.AssaultRifle.AR_Barrel_Torgue_Dahl_Bearcat": {
+    "titles": [
+      "GD_Gladiolus_Weapons.Name.Title.Title_Pearlescent_Bearcat"
+    ],
+    "type": "Barrel"
+  },
+  "GD_Gladiolus_Weapons.AssaultRifle.AR_Body_Bandit_6_Sawbar": {
+    "prefixes": [
+      "GD_Weap_AssaultRifle.Name.Prefix_Bandit.Prefix__Body4_Maxemized"
+    ],
+    "type": "Body"
+  },
+  "GD_Gladiolus_Weapons.AssaultRifle.AR_Body_Dahl_6_Bearcat": {
+    "type": "Body"
+  },
+  "GD_Gladiolus_Weapons.Launchers.L_Barrel_Bandit_Tunguska": {
+    "titles": [
+      "GD_Gladiolus_Weapons.Name.Title.Title_Pearlescent_Tunguska"
+    ],
+    "type": "Barrel"
+  },
+  "GD_Gladiolus_Weapons.Launchers.L_Body_Torgue_6": {
+    "type": "Body"
+  },
+  "GD_Gladiolus_Weapons.ManufacturerMaterials.Mat_Bandit_6_Sawbar": {
+    "type": "Material"
+  },
+  "GD_Gladiolus_Weapons.ManufacturerMaterials.Mat_Dahl_6_Bearcat": {
+    "type": "Material"
+  },
+  "GD_Gladiolus_Weapons.ManufacturerMaterials.Mat_Hyperion_6_Butcher": {
+    "type": "Body"
+  },
+  "GD_Gladiolus_Weapons.ManufacturerMaterials.Mat_Jakobs_6_Unforgiven": {
+    "type": "Material"
+  },
+  "GD_Gladiolus_Weapons.ManufacturerMaterials.Mat_Maliwan_6_Storm": {
+    "type": "Material"
+  },
+  "GD_Gladiolus_Weapons.ManufacturerMaterials.Mat_Tediore_6_Avenger": {
+    "type": "Material"
+  },
+  "GD_Gladiolus_Weapons.ManufacturerMaterials.Mat_Torgue_6_Tunguska": {
+    "type": "Material"
+  },
+  "GD_Gladiolus_Weapons.ManufacturerMaterials.Mat_Vladof_6_Stalker": {
+    "type": "Material"
+  },
+  "GD_Gladiolus_Weapons.Pistol.Pistol_Barrel_Jakobs_Unforgiven": {
+    "titles": [
+      "GD_Gladiolus_Weapons.Name.Title.Title_Pearlescent_Unforgiven"
+    ],
+    "type": "Barrel"
+  },
+  "GD_Gladiolus_Weapons.Pistol.Pistol_Barrel_Stalker": {
+    "titles": [
+      "GD_Gladiolus_Weapons.Name.Title.Title_Pearlescent_Stalker"
+    ],
+    "type": "Barrel"
+  },
+  "GD_Gladiolus_Weapons.Pistol.Pistol_Body_Jakobs_6": {
+    "type": "Body"
+  },
+  "GD_Gladiolus_Weapons.Pistol.Pistol_Body_Vladof_6": {
+    "type": "Body"
+  },
+  "GD_Gladiolus_Weapons.Shotgun.SG_Barrel_Torgue_Butcher": {
+    "titles": [
+      "GD_Gladiolus_Weapons.Name.Title.Title_Pearlescent_Butcher"
+    ],
+    "type": "Barrel"
+  },
+  "GD_Gladiolus_Weapons.Shotgun.SG_Body_Hyperion_6": {
+    "type": "Body"
+  },
+  "GD_Gladiolus_Weapons.SMG.SMG_Barrel_Hyperion_Avenger": {
+    "titles": [
+      "GD_Gladiolus_Weapons.Name.Title.Title_Pearlescent_Avenger"
+    ],
+    "type": "Barrel"
+  },
+  "GD_Gladiolus_Weapons.SMG.SMG_Body_Tediore_6_Avenger": {
+    "type": "Body"
+  },
+  "GD_Gladiolus_Weapons.sniper.SR_Barrel_Maliwan_Storm": {
+    "titles": [
+      "GD_Gladiolus_Weapons.Name.Title.Title_Pearlescent_Storm"
+    ],
+    "type": "Barrel"
+  },
+  "GD_Gladiolus_Weapons.sniper.SR_Body_Maliwan_6_Storm": {
+    "type": "Body"
+  },
+  "GD_Lilac_SkillsBase.Buzzaxe.Blades_Buzzaxe": {
+    "type": "Barrel"
+  },
+  "GD_Lilac_SkillsBase.Buzzaxe.BottomSpike_Buzzaxe": {
+    "type": "Stock"
+  },
+  "GD_Lilac_SkillsBase.Buzzaxe.Claw_Buzzaxe": {
+    "type": "Accessory1"
+  },
+  "GD_Lilac_SkillsBase.Buzzaxe.Dynamite_Buzzaxe": {
+    "type": "Body"
+  },
+  "GD_Lilac_SkillsBase.Buzzaxe.Grip_Buzzaxe": {
+    "type": "Grip"
+  },
+  "GD_Lilac_SkillsBase.Buzzaxe.Material_Buzzaxe": {
+    "type": "Material"
+  },
+  "GD_Lilac_SkillsBase.Buzzaxe.Material_Buzzaxe_Fire": {
+    "type": "Material"
+  },
   "GD_Weap_AssaultRifle.Accessory.AR_Accessory_BanditClamp_Damage": {
     "prefixes": [
       "GD_Weap_AssaultRifle.Name.Prefix.Prefix_BanditClamp_Damage",
@@ -478,14 +598,12 @@
     ],
     "type": "Barrel"
   },
-  /*
-  "GD_Weap_AssaultRifle.Barrel.AR_Barrel_Vladof_EvilSmasher": {
+  "GD_Weap_AssaultRifle.Barrel.AR_Barrel_Vladof_EvilSmasher": {    // Flamerock Refuge
     "titles": [
       "GD_Weap_AssaultRifle.Name.Title.Title_Unique_EvilSmasher"
     ],
     "type": "Barrel"
   },
-  */
   "GD_Weap_AssaultRifle.Barrel.AR_Barrel_Vladof_Minigun": {
     "titles": [
       "GD_Weap_AssaultRifle.Name.Title.Title_Barrel_Vladof_Minigun",

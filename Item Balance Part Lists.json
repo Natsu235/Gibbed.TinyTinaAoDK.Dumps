@@ -1542,7 +1542,8 @@
       "GD_Artifacts.Upgrade.Upgrade_Grade11"
     ]
   },
-  "GD_Artifacts.PartLists_Unique.Parts_Opportunity": {
+  */
+  "GD_Artifacts.PartLists_Unique.Parts_Opportunity": {    // Flamerock Refuge
     "mode": "Complete",
     "item": "GD_Artifacts.A_Item_Unique.Artifact_Opportunity",
     "alpha": [
@@ -1558,7 +1559,6 @@
       "GD_Artifacts.Upgrade.Upgrade_Grade11"
     ]
   },
-  */
   "GD_Artifacts.PartLists_Unique.Parts_Sheriff": {
     "mode": "Complete",
     "item": "GD_Artifacts.A_Item_Unique.Artifact_Sheriff",
@@ -3824,6 +3824,58 @@
       "GD_GrenadeMods.Material.Material_Bandit_3_Rare"
     ]
   },
+  /*
+  "GD_GrenadeMods.PartLists.Parts_KissOfDeath": {
+    "mode": "Complete",
+    "item": "GD_GrenadeMods.A_Item.GrenadeMod_Standard",
+    "alpha": [
+      "GD_GrenadeMods.Payload.Payload_KissOfDeath"
+    ],
+    "beta": [
+      "GD_GrenadeMods.Delivery.Delivery_Homing_Sticky"
+    ],
+    "gamma": [
+      "GD_GrenadeMods.Trigger.Trigger_Grade0"
+    ],
+    "delta": [
+      "GD_GrenadeMods.Accessory.Accessory_Explosive",
+      "GD_GrenadeMods.Accessory.Accessory_Incendiary_Grade1",
+      "GD_GrenadeMods.Accessory.Accessory_Incendiary_Grade2",
+      "GD_GrenadeMods.Accessory.Accessory_Incendiary_Grade3",
+      "GD_GrenadeMods.Accessory.Accessory_Incendiary_Grade4",
+      "GD_GrenadeMods.Accessory.Accessory_Corrosive_Grade1",
+      "GD_GrenadeMods.Accessory.Accessory_Corrosive_Grade2",
+      "GD_GrenadeMods.Accessory.Accessory_Corrosive_Grade3",
+      "GD_GrenadeMods.Accessory.Accessory_Corrosive_Grade4",
+      "GD_GrenadeMods.Accessory.Accessory_Shock_Grade1",
+      "GD_GrenadeMods.Accessory.Accessory_Shock_Grade2",
+      "GD_GrenadeMods.Accessory.Accessory_Shock_Grade3",
+      "GD_GrenadeMods.Accessory.Accessory_Shock_Grade4"
+    ],
+    "epsilon": [
+      "GD_GrenadeMods.Damage.Damage_Grade4",
+      "GD_GrenadeMods.Damage.Damage_Grade5"
+    ],
+    "zeta": [
+      "GD_GrenadeMods.DamageRadius.DamageRadius_Normal",
+      "GD_GrenadeMods.DamageRadius.DamageRadius_Large"
+    ],
+    "eta": [
+      "GD_GrenadeMods.ChildCount.ChildCount_Grade0",
+      "GD_GrenadeMods.ChildCount.ChildCount_Grade1",
+      "GD_GrenadeMods.ChildCount.ChildCount_Grade2"
+    ],
+    "theta": [
+      "GD_GrenadeMods.StatusDamage.StatusDamage_Grade1",
+      "GD_GrenadeMods.StatusDamage.StatusDamage_Grade2",
+      "GD_GrenadeMods.StatusDamage.StatusDamage_Grade3",
+      "GD_GrenadeMods.StatusDamage.StatusDamage_Grade4"
+    ],
+    "material": [
+      "GD_GrenadeMods.Material.Material_Maliwan_3_Rare"
+    ]
+  },
+  */
   "GD_GrenadeMods.PartLists.Parts_Mirv_2_Uncommon": {
     "mode": "Complete",
     "item": "GD_GrenadeMods.A_Item.GrenadeMod_Standard",
